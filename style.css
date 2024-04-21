@@ -69,7 +69,12 @@ header .container .row .navbar h1.logo:hover span {
 	color: #000000;
 	transition: 0.5s ease;
 }
+.fa-droplet {
+	color: var(--primary-clr);
+	background-color: black;
 
+	border-radius: 10%;
+}
 section.section1 {
 	background: url(./MajiMajiImages/water5.jpg);
 	height: 700px;
